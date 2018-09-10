@@ -7,11 +7,11 @@ with open("README.md", "r") as RM:
 
 setuptools.setup(
     name='gallos',
-    version='0.0.6',
+    version='0.0.7',
     description="A sample package",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url="https://github.com/Stegallo",
+    url="https://github.com/Stegallo/gallos",
     packages=setuptools.find_packages(),
     install_requires=[
     ],
